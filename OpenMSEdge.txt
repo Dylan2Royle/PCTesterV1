@@ -1,7 +1,0 @@
-@echo off
-:a 
-start microsoft-edge
-
-timeout /t 1
-
-goto a

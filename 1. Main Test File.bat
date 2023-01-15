@@ -1,3 +1,2 @@
-
-start ChromeTest.bat
-
+start OpenChrome.bat
+start OpenEgde.bat
