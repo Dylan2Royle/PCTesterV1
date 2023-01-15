@@ -1,7 +1,14 @@
 @echo off
+set a=0
+:Count
 :a 
-start chrome.exe
+set /a a=a+1
 
+
+start chrome.exe
 timeout /t 1
+echo %a%
 
 goto a
+goto Count
+

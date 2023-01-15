@@ -17,3 +17,8 @@ Added The "OpenChrome.bat" and "OpenEdge.bat" to the Main Bat Script
 
 4. Added Notes and Future Scripts 
 With Python, C#, c++, c is coming, and For anyone want to add to this Project of Open Source
+
+---------
+
+5. Added a Counter
+Counter for Seeing How many Chrome or other Program are open at once
