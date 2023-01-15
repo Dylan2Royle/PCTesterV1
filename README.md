@@ -4,3 +4,5 @@ This is a Pc Crasher and it will test how many time can "insert Program name" wi
 If it Blue Screen that mean the PC is not Met you Needs
 
 More Will Be adding So
+
+timeout /t remove this "If" you dont want to defult set to 5 seconds and open until Crash
