@@ -21,4 +21,4 @@ With Python, C#, c++, c is coming, and For anyone want to add to this Project of
 ---------
 
 5. Added a Counter
-Counter for Seeing How many Chrome or other Program are open at once
+Counter for Seeing How many "insert Program name" are open at once
