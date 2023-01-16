@@ -1,4 +1,4 @@
-15/01/23  5:20 PM UK Time
+15/01/23  5:20 PM UK Time  "Contributor GitHub Name: "Dylan2Royle" "
 
 1. Update 1 Edge Support:
 Added Edge, Edge if you want to test Edge
