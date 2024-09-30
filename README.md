@@ -8,4 +8,4 @@ More Will Be adding Soon
 timeout /t remove this "If" you dont want to defult set to 1 seconds and open until Crash
 
 
-See Change Long For any Change to this Project
+See Change Log For any Change to this Project
